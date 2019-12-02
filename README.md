@@ -15,6 +15,7 @@ frontend. Apache ma wystawiony na świat zewnętrzy port 6666.
 - podać zawartość innych, niezbędnych plików,
 - podać zawartość pliku docker-compose.yml,
 - utworzyć i podać zawartość pliku README.md opisujący stworzony projekt
+
 Opcjonalnie: sprawdzić czy jest możliwe wygenerowanie reprezentacji graficznej dla
 utworzonego pliku docker-compose.yml i jeśli tak, to umieścić go w sprawozdaniu.
 Cały projekt może być też umieszczony w repozytorium na GitHub-ie. W takim przypadku
