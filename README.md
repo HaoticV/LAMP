@@ -5,6 +5,7 @@ usług składowych:
 - serwera Apacje (można wykorzystać np. obraz serwera httpd na bazie alpine)
 - serwera PHP (można wykorzystać np. oficjalny obraz latest)
 - bazy danych MySQL (można wykorzystać oficjalny obraz latest)
+
 Założenia dla uslugi:
 - serwery są budowane zgodnie z dokumentacją obrazów bazowych dostępnych na
 DockerHub i umieszczonych tam plików Dockerfile (nie korzysta się z gotowych obrazów),
